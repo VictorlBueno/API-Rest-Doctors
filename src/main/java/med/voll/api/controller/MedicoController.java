@@ -44,5 +44,4 @@ public class MedicoController {
         medico.excluir();
         //repository.deleteById(id);
     }
-
 }
